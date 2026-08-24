@@ -1,0 +1,12 @@
+Here are the curated YouTube video links that provide comprehensive overviews and deep dives into the DevOps lifecycle, focusing closely on the planning phase and career roadmaps:
+## Complete DevOps Lifecycle Tutorials
+
+* [Complete DevOps Lifecycle & Tools Guide with Goals](https://www.youtube.com/watch?v=4u2puWQyUMM): This guide from YouTube breaks down the 7 primary stages of the DevOps lifecycle—starting directly with the Plan phase—explaining the goals and tools associated with each step.
+* [DevOps Full Course 2026](https://www.youtube.com/watch?v=RwIhQg7Gxz0): An in-depth masterclass tutorial on YouTube that outlines the planning phase (defining project scope and sprint planning via Jira) before moving sequentially into coding, building, and deploying.
+
+## DevOps Engineering Roadmaps
+
+* [Complete DevOps Roadmap 2026](https://www.youtube.com/watch?v=1J2YOV6LcwY): A multi-level structured blueprint on YouTube designed to take you from foundational prerequisites to advanced automated engineering concepts.
+* [The Complete DevOps Roadmap for Beginners](https://www.youtube.com/watch?v=2Juapfdi8sM): A video from YouTube that breaks the learning journey down into sequential "districts," ensuring you master the early architectural planning and core scripting skills before scaling up.
+
+
